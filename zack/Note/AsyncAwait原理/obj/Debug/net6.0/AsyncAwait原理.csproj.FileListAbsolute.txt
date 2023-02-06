@@ -1,0 +1,15 @@
+D:\learn\zack\note\AsyncAwait原理\bin\Debug\net6.0\AsyncAwait原理.exe
+D:\learn\zack\note\AsyncAwait原理\bin\Debug\net6.0\AsyncAwait原理.deps.json
+D:\learn\zack\note\AsyncAwait原理\bin\Debug\net6.0\AsyncAwait原理.runtimeconfig.json
+D:\learn\zack\note\AsyncAwait原理\bin\Debug\net6.0\AsyncAwait原理.dll
+D:\learn\zack\note\AsyncAwait原理\bin\Debug\net6.0\AsyncAwait原理.pdb
+D:\learn\zack\note\AsyncAwait原理\obj\Debug\net6.0\AsyncAwait原理.csproj.AssemblyReference.cache
+D:\learn\zack\note\AsyncAwait原理\obj\Debug\net6.0\AsyncAwait原理.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\zack\note\AsyncAwait原理\obj\Debug\net6.0\AsyncAwait原理.AssemblyInfoInputs.cache
+D:\learn\zack\note\AsyncAwait原理\obj\Debug\net6.0\AsyncAwait原理.AssemblyInfo.cs
+D:\learn\zack\note\AsyncAwait原理\obj\Debug\net6.0\AsyncAwait原理.csproj.CoreCompileInputs.cache
+D:\learn\zack\note\AsyncAwait原理\obj\Debug\net6.0\AsyncAwait原理.dll
+D:\learn\zack\note\AsyncAwait原理\obj\Debug\net6.0\refint\AsyncAwait原理.dll
+D:\learn\zack\note\AsyncAwait原理\obj\Debug\net6.0\AsyncAwait原理.pdb
+D:\learn\zack\note\AsyncAwait原理\obj\Debug\net6.0\AsyncAwait原理.genruntimeconfig.cache
+D:\learn\zack\note\AsyncAwait原理\obj\Debug\net6.0\ref\AsyncAwait原理.dll
