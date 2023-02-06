@@ -1,0 +1,15 @@
+D:\zack\线程切换\bin\Debug\net6.0\线程切换.exe
+D:\zack\线程切换\bin\Debug\net6.0\线程切换.deps.json
+D:\zack\线程切换\bin\Debug\net6.0\线程切换.runtimeconfig.json
+D:\zack\线程切换\bin\Debug\net6.0\线程切换.dll
+D:\zack\线程切换\bin\Debug\net6.0\线程切换.pdb
+D:\zack\线程切换\obj\Debug\net6.0\线程切换.csproj.AssemblyReference.cache
+D:\zack\线程切换\obj\Debug\net6.0\线程切换.GeneratedMSBuildEditorConfig.editorconfig
+D:\zack\线程切换\obj\Debug\net6.0\线程切换.AssemblyInfoInputs.cache
+D:\zack\线程切换\obj\Debug\net6.0\线程切换.AssemblyInfo.cs
+D:\zack\线程切换\obj\Debug\net6.0\线程切换.csproj.CoreCompileInputs.cache
+D:\zack\线程切换\obj\Debug\net6.0\线程切换.dll
+D:\zack\线程切换\obj\Debug\net6.0\refint\线程切换.dll
+D:\zack\线程切换\obj\Debug\net6.0\线程切换.pdb
+D:\zack\线程切换\obj\Debug\net6.0\线程切换.genruntimeconfig.cache
+D:\zack\线程切换\obj\Debug\net6.0\ref\线程切换.dll

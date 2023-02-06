@@ -1,0 +1,15 @@
+D:\zack\取消令牌\bin\Debug\net6.0\取消令牌.exe
+D:\zack\取消令牌\bin\Debug\net6.0\取消令牌.deps.json
+D:\zack\取消令牌\bin\Debug\net6.0\取消令牌.runtimeconfig.json
+D:\zack\取消令牌\bin\Debug\net6.0\取消令牌.dll
+D:\zack\取消令牌\bin\Debug\net6.0\取消令牌.pdb
+D:\zack\取消令牌\obj\Debug\net6.0\取消令牌.csproj.AssemblyReference.cache
+D:\zack\取消令牌\obj\Debug\net6.0\取消令牌.GeneratedMSBuildEditorConfig.editorconfig
+D:\zack\取消令牌\obj\Debug\net6.0\取消令牌.AssemblyInfoInputs.cache
+D:\zack\取消令牌\obj\Debug\net6.0\取消令牌.AssemblyInfo.cs
+D:\zack\取消令牌\obj\Debug\net6.0\取消令牌.csproj.CoreCompileInputs.cache
+D:\zack\取消令牌\obj\Debug\net6.0\取消令牌.dll
+D:\zack\取消令牌\obj\Debug\net6.0\refint\取消令牌.dll
+D:\zack\取消令牌\obj\Debug\net6.0\取消令牌.pdb
+D:\zack\取消令牌\obj\Debug\net6.0\取消令牌.genruntimeconfig.cache
+D:\zack\取消令牌\obj\Debug\net6.0\ref\取消令牌.dll
