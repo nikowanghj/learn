@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\learn\\zack\\Note\\线程切换\\线程切换.csproj": {}
+    "D:\\learn\\zack\\note\\线程切换\\线程切换.csproj": {}
   },
   "projects": {
-    "D:\\learn\\zack\\Note\\线程切换\\线程切换.csproj": {
+    "D:\\learn\\zack\\note\\线程切换\\线程切换.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learn\\zack\\Note\\线程切换\\线程切换.csproj",
+        "projectUniqueName": "D:\\learn\\zack\\note\\线程切换\\线程切换.csproj",
         "projectName": "线程切换",
-        "projectPath": "D:\\learn\\zack\\Note\\线程切换\\线程切换.csproj",
+        "projectPath": "D:\\learn\\zack\\note\\线程切换\\线程切换.csproj",
         "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-        "outputPath": "D:\\learn\\zack\\Note\\线程切换\\obj\\",
+        "outputPath": "D:\\learn\\zack\\note\\线程切换\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",
