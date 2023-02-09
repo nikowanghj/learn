@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\learn\\zack\\note\\依赖注入的传染性\\依赖注入的传染性.csproj": {}
+  },
+  "projects": {
+    "D:\\learn\\zack\\note\\依赖注入的传染性\\依赖注入的传染性.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\learn\\zack\\note\\依赖注入的传染性\\依赖注入的传染性.csproj",
+        "projectName": "依赖注入的传染性",
+        "projectPath": "D:\\learn\\zack\\note\\依赖注入的传染性\\依赖注入的传染性.csproj",
+        "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
+        "outputPath": "D:\\learn\\zack\\Note\\依赖注入的传染性\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Azure.Search.Common": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
