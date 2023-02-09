@@ -1,0 +1,12 @@
+D:\learn\zack\Note\LogService\bin\Debug\net6.0\LogService.deps.json
+D:\learn\zack\Note\LogService\bin\Debug\net6.0\LogService.dll
+D:\learn\zack\Note\LogService\bin\Debug\net6.0\LogService.pdb
+D:\learn\zack\Note\LogService\obj\Debug\net6.0\LogService.csproj.AssemblyReference.cache
+D:\learn\zack\Note\LogService\obj\Debug\net6.0\LogService.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\zack\Note\LogService\obj\Debug\net6.0\LogService.AssemblyInfoInputs.cache
+D:\learn\zack\Note\LogService\obj\Debug\net6.0\LogService.AssemblyInfo.cs
+D:\learn\zack\Note\LogService\obj\Debug\net6.0\LogService.csproj.CoreCompileInputs.cache
+D:\learn\zack\Note\LogService\obj\Debug\net6.0\LogService.dll
+D:\learn\zack\Note\LogService\obj\Debug\net6.0\refint\LogService.dll
+D:\learn\zack\Note\LogService\obj\Debug\net6.0\LogService.pdb
+D:\learn\zack\Note\LogService\obj\Debug\net6.0\ref\LogService.dll

@@ -33,7 +33,6 @@ Console.WriteLine("平均值为：" + bb.Average());
 var str = "dsadhfjakfhajnfauidjjklsajdlajsdmmclajflaskfjalfj";
 var numbs = str.Where(c => char.IsLetter(c)).Select(c => char.ToLower(c))
    .GroupBy(s => s).Select(s => new { s.Key, count = s.Count() }).OrderByDescending(s=>s.count).Where(s=>s.count > 2); 
-    ;
 foreach(var a in numbs)
 {
     Console.WriteLine(a);

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DCjWaT/Tv46esw1MZ3n9Y8hzqWo8FITXPu5gId5zMX1fSwl7UpiBveKyMIl1LAluOnE/s8DBodWgUDXTDhM0Ew==",
+  "success": true,
+  "projectFilePath": "D:\\learn\\zack\\note\\LogService\\LogService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
