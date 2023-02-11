@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj",
+      "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj",
       "projectName": "ConfigService",
-      "projectPath": "D:\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj",
+      "projectPath": "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj",
       "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-      "outputPath": "D:\\learn\\zack\\Note\\ConfigService\\obj\\",
+      "outputPath": "D:\\learn2\\learn\\zack\\Note\\ConfigService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",

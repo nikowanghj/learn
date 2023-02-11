@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\learn\\zack\\note\\异步方法不等于多线程\\异步方法不等于多线程.csproj": {}
+    "D:\\learn2\\learn\\zack\\Note\\异步方法不等于多线程\\异步方法不等于多线程.csproj": {}
   },
   "projects": {
-    "D:\\learn\\zack\\note\\异步方法不等于多线程\\异步方法不等于多线程.csproj": {
+    "D:\\learn2\\learn\\zack\\Note\\异步方法不等于多线程\\异步方法不等于多线程.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learn\\zack\\note\\异步方法不等于多线程\\异步方法不等于多线程.csproj",
+        "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\异步方法不等于多线程\\异步方法不等于多线程.csproj",
         "projectName": "异步方法不等于多线程",
-        "projectPath": "D:\\learn\\zack\\note\\异步方法不等于多线程\\异步方法不等于多线程.csproj",
+        "projectPath": "D:\\learn2\\learn\\zack\\Note\\异步方法不等于多线程\\异步方法不等于多线程.csproj",
         "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-        "outputPath": "D:\\learn\\zack\\note\\异步方法不等于多线程\\obj\\",
+        "outputPath": "D:\\learn2\\learn\\zack\\Note\\异步方法不等于多线程\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",

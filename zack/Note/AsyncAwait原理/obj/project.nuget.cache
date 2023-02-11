@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xPhzJyx6BykJslWJ6YwibRqPWmpkR4AM8sSXWzy/pZlp4VFRMJxGNHgXrnpaTVw9N7R7eycq3XkGvripb6gaHg==",
+  "dgSpecHash": "VJFcvBhEmooqZKsJ2sgpXTDXU345oN4PdIL4+dXSq/a4WrFD3eCuJb6QQziXNe+ya/tYWYgV4BaosJD1LQ5+QA==",
   "success": true,
-  "projectFilePath": "D:\\learn\\zack\\note\\AsyncAwait原理\\AsyncAwait原理.csproj",
+  "projectFilePath": "D:\\learn2\\learn\\zack\\Note\\AsyncAwait原理\\AsyncAwait原理.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vp3DtF48o6waUQmnT3VudCjH+9ib2pG6OmMdiGIoNt9x2nrnOlMeynIFUbcAzoK4d78Bz14uK7kVBR1PF6dldg==",
+  "success": true,
+  "projectFilePath": "D:\\learn2\\learn\\zack\\Note\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\海军 王\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

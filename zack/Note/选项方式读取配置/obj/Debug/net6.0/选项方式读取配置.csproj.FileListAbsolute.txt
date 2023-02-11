@@ -1,0 +1,5 @@
+D:\learn2\learn\zack\Note\选项方式读取配置\obj\Debug\net6.0\选项方式读取配置.csproj.AssemblyReference.cache
+D:\learn2\learn\zack\Note\选项方式读取配置\obj\Debug\net6.0\选项方式读取配置.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn2\learn\zack\Note\选项方式读取配置\obj\Debug\net6.0\选项方式读取配置.AssemblyInfoInputs.cache
+D:\learn2\learn\zack\Note\选项方式读取配置\obj\Debug\net6.0\选项方式读取配置.AssemblyInfo.cs
+D:\learn2\learn\zack\Note\选项方式读取配置\obj\Debug\net6.0\选项方式读取配置.csproj.CoreCompileInputs.cache

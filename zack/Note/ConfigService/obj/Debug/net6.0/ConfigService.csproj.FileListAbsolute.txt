@@ -10,3 +10,15 @@ D:\learn\zack\Note\ConfigService\obj\Debug\net6.0\ConfigService.dll
 D:\learn\zack\Note\ConfigService\obj\Debug\net6.0\refint\ConfigService.dll
 D:\learn\zack\Note\ConfigService\obj\Debug\net6.0\ConfigService.pdb
 D:\learn\zack\Note\ConfigService\obj\Debug\net6.0\ref\ConfigService.dll
+D:\learn2\learn\zack\Note\ConfigService\bin\Debug\net6.0\ConfigService.deps.json
+D:\learn2\learn\zack\Note\ConfigService\bin\Debug\net6.0\ConfigService.dll
+D:\learn2\learn\zack\Note\ConfigService\bin\Debug\net6.0\ConfigService.pdb
+D:\learn2\learn\zack\Note\ConfigService\obj\Debug\net6.0\ConfigService.csproj.AssemblyReference.cache
+D:\learn2\learn\zack\Note\ConfigService\obj\Debug\net6.0\ConfigService.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn2\learn\zack\Note\ConfigService\obj\Debug\net6.0\ConfigService.AssemblyInfoInputs.cache
+D:\learn2\learn\zack\Note\ConfigService\obj\Debug\net6.0\ConfigService.AssemblyInfo.cs
+D:\learn2\learn\zack\Note\ConfigService\obj\Debug\net6.0\ConfigService.csproj.CoreCompileInputs.cache
+D:\learn2\learn\zack\Note\ConfigService\obj\Debug\net6.0\ConfigService.dll
+D:\learn2\learn\zack\Note\ConfigService\obj\Debug\net6.0\refint\ConfigService.dll
+D:\learn2\learn\zack\Note\ConfigService\obj\Debug\net6.0\ConfigService.pdb
+D:\learn2\learn\zack\Note\ConfigService\obj\Debug\net6.0\ref\ConfigService.dll

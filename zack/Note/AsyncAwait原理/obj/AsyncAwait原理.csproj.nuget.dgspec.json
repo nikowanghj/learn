@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\learn\\zack\\note\\AsyncAwait原理\\AsyncAwait原理.csproj": {}
+    "D:\\learn2\\learn\\zack\\Note\\AsyncAwait原理\\AsyncAwait原理.csproj": {}
   },
   "projects": {
-    "D:\\learn\\zack\\note\\AsyncAwait原理\\AsyncAwait原理.csproj": {
+    "D:\\learn2\\learn\\zack\\Note\\AsyncAwait原理\\AsyncAwait原理.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learn\\zack\\note\\AsyncAwait原理\\AsyncAwait原理.csproj",
+        "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\AsyncAwait原理\\AsyncAwait原理.csproj",
         "projectName": "AsyncAwait原理",
-        "projectPath": "D:\\learn\\zack\\note\\AsyncAwait原理\\AsyncAwait原理.csproj",
+        "projectPath": "D:\\learn2\\learn\\zack\\Note\\AsyncAwait原理\\AsyncAwait原理.csproj",
         "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-        "outputPath": "D:\\learn\\zack\\note\\AsyncAwait原理\\obj\\",
+        "outputPath": "D:\\learn2\\learn\\zack\\Note\\AsyncAwait原理\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",

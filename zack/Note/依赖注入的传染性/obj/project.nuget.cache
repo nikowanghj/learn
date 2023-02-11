@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a9KmZ1O6DxlMsvnUlxqp6pVoThlDa/ny9Gr8a4n6ltd/sUPQhFdsjmB6MZk2XCSlgNG5xOfCRvoOw1t291XR7Q==",
+  "dgSpecHash": "VfTwWHr9EwaTcYtcZaVLosnF5UsSSWz1kM3AWZweRI/DCZDcQQxpGOE9Ps/Qf6A6IW920FWVy0h4sJmnIkdk5A==",
   "success": true,
-  "projectFilePath": "D:\\learn\\zack\\note\\依赖注入的传染性\\依赖注入的传染性.csproj",
+  "projectFilePath": "D:\\learn2\\learn\\zack\\Note\\依赖注入的传染性\\依赖注入的传染性.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.azure.search.common\\10.1.0\\microsoft.azure.search.common.10.1.0.nupkg.sha512",
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

@@ -96,11 +96,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learn\\zack\\note\\MailService\\MailService.csproj",
+      "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\MailService\\MailService.csproj",
       "projectName": "MailService",
-      "projectPath": "D:\\learn\\zack\\note\\MailService\\MailService.csproj",
+      "projectPath": "D:\\learn2\\learn\\zack\\Note\\MailService\\MailService.csproj",
       "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-      "outputPath": "D:\\learn\\zack\\note\\MailService\\obj\\",
+      "outputPath": "D:\\learn2\\learn\\zack\\Note\\MailService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,11 +117,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\learn\\zack\\note\\ConfigService\\ConfigService.csproj": {
-              "projectPath": "D:\\learn\\zack\\note\\ConfigService\\ConfigService.csproj"
+            "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj": {
+              "projectPath": "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj"
             },
-            "D:\\learn\\zack\\note\\LogService\\LogService.csproj": {
-              "projectPath": "D:\\learn\\zack\\note\\LogService\\LogService.csproj"
+            "D:\\learn2\\learn\\zack\\Note\\LogService\\LogService.csproj": {
+              "projectPath": "D:\\learn2\\learn\\zack\\Note\\LogService\\LogService.csproj"
             }
           }
         }
