@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learn\\zack\\Note\\取消令牌\\取消令牌.csproj",
+      "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\取消令牌\\取消令牌.csproj",
       "projectName": "取消令牌",
-      "projectPath": "D:\\learn\\zack\\Note\\取消令牌\\取消令牌.csproj",
+      "projectPath": "D:\\learn2\\learn\\zack\\Note\\取消令牌\\取消令牌.csproj",
       "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-      "outputPath": "D:\\learn\\zack\\Note\\取消令牌\\obj\\",
+      "outputPath": "D:\\learn2\\learn\\zack\\Note\\取消令牌\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",

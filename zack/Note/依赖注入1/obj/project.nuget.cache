@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l46Ef9EmBOtOdVCQp196t5xNwaxobIFbxQPdU7cAo81cOttd7F3lx0L5M62M7BGhBVxVltLb7xyzASjP+wt4PQ==",
+  "dgSpecHash": "6aYZV2+0xMqy/bAHzxjX14N3AyUv7aoXSLnnf23xv6Pvod7PvnnNIuQ9vESEXeJxTmT5WreCpJ6d9lDAo5Oj6A==",
   "success": true,
-  "projectFilePath": "D:\\learn\\zack\\note\\依赖注入1\\依赖注入1.csproj",
+  "projectFilePath": "D:\\learn2\\learn\\zack\\Note\\依赖注入1\\依赖注入1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.azure.search.common\\10.1.0\\microsoft.azure.search.common.10.1.0.nupkg.sha512",
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

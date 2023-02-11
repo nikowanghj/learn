@@ -5509,11 +5509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learn\\zack\\note\\依赖注入1\\依赖注入1.csproj",
+      "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\依赖注入1\\依赖注入1.csproj",
       "projectName": "依赖注入1",
-      "projectPath": "D:\\learn\\zack\\note\\依赖注入1\\依赖注入1.csproj",
+      "projectPath": "D:\\learn2\\learn\\zack\\Note\\依赖注入1\\依赖注入1.csproj",
       "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-      "outputPath": "D:\\learn\\zack\\note\\依赖注入1\\obj\\",
+      "outputPath": "D:\\learn2\\learn\\zack\\Note\\依赖注入1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5530,8 +5530,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\learn\\zack\\note\\依赖注入的传染性\\依赖注入的传染性.csproj": {
-              "projectPath": "D:\\learn\\zack\\note\\依赖注入的传染性\\依赖注入的传染性.csproj"
+            "D:\\learn2\\learn\\zack\\Note\\依赖注入的传染性\\依赖注入的传染性.csproj": {
+              "projectPath": "D:\\learn2\\learn\\zack\\Note\\依赖注入的传染性\\依赖注入的传染性.csproj"
             }
           }
         }

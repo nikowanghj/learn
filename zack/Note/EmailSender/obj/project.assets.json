@@ -163,11 +163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learn\\zack\\note\\EmailSender\\EmailSender.csproj",
+      "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\EmailSender\\EmailSender.csproj",
       "projectName": "EmailSender",
-      "projectPath": "D:\\learn\\zack\\note\\EmailSender\\EmailSender.csproj",
+      "projectPath": "D:\\learn2\\learn\\zack\\Note\\EmailSender\\EmailSender.csproj",
       "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-      "outputPath": "D:\\learn\\zack\\note\\EmailSender\\obj\\",
+      "outputPath": "D:\\learn2\\learn\\zack\\Note\\EmailSender\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -184,8 +184,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\learn\\zack\\note\\MailService\\MailService.csproj": {
-              "projectPath": "D:\\learn\\zack\\note\\MailService\\MailService.csproj"
+            "D:\\learn2\\learn\\zack\\Note\\MailService\\MailService.csproj": {
+              "projectPath": "D:\\learn2\\learn\\zack\\Note\\MailService\\MailService.csproj"
             }
           }
         }

@@ -62,11 +62,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learn\\zack\\note\\LogService\\LogService.csproj",
+      "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\LogService\\LogService.csproj",
       "projectName": "LogService",
-      "projectPath": "D:\\learn\\zack\\note\\LogService\\LogService.csproj",
+      "projectPath": "D:\\learn2\\learn\\zack\\Note\\LogService\\LogService.csproj",
       "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-      "outputPath": "D:\\learn\\zack\\note\\LogService\\obj\\",
+      "outputPath": "D:\\learn2\\learn\\zack\\Note\\LogService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",

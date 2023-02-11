@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\learn\\zack\\note\\Linq\\Linq.csproj": {}
+    "D:\\learn2\\learn\\zack\\Note\\Linq\\Linq.csproj": {}
   },
   "projects": {
-    "D:\\learn\\zack\\note\\Linq\\Linq.csproj": {
+    "D:\\learn2\\learn\\zack\\Note\\Linq\\Linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learn\\zack\\note\\Linq\\Linq.csproj",
+        "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\Linq\\Linq.csproj",
         "projectName": "Linq",
-        "projectPath": "D:\\learn\\zack\\note\\Linq\\Linq.csproj",
+        "projectPath": "D:\\learn2\\learn\\zack\\Note\\Linq\\Linq.csproj",
         "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-        "outputPath": "D:\\learn\\zack\\note\\Linq\\obj\\",
+        "outputPath": "D:\\learn2\\learn\\zack\\Note\\Linq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",

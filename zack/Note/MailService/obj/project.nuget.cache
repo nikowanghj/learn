@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8vYXHAIHy+wPNQTqLLB/g9zuFf62ZzZd83iTdjaLwolqX0bwLtuMONyKEnjxwd751uy5zMLfElhXGZTqaYd7PQ==",
+  "dgSpecHash": "RjZWsjb1sHp8W3yrbjvZminGSSwQPmxDmsxKRCBAhHWofGLvRsD4mkjvqpcZvdFbkLjVUC5BrXmfxIgyJ7jShw==",
   "success": true,
-  "projectFilePath": "D:\\learn\\zack\\note\\MailService\\MailService.csproj",
+  "projectFilePath": "D:\\learn2\\learn\\zack\\Note\\MailService\\MailService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TqQLiCL6//Rj2eRCbw2xbnaKbjc/pkkhGTWuw5Ebysppv3NPv7JtfDf711Ol0I/nTtipmmb+j6ygRgVRLDgQGg==",
+  "dgSpecHash": "gxV6eD3+s71QgGM1dtCHth5Kz0i8CEpl52n+BUbztqZwFVH6PwIXn7I8ubDForPcWULpjTLIXfolNxzM5I3vFg==",
   "success": true,
-  "projectFilePath": "D:\\learn\\zack\\note\\EmailSender\\EmailSender.csproj",
+  "projectFilePath": "D:\\learn2\\learn\\zack\\Note\\EmailSender\\EmailSender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
