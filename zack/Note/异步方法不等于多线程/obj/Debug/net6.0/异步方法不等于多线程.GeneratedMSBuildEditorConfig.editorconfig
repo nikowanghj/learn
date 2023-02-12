@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = 异步方法不等于多线程
-build_property.ProjectDir = D:\learn2\learn\zack\Note\异步方法不等于多线程\
+build_property.ProjectDir = D:\nikolearn\learn\zack\Note\异步方法不等于多线程\

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\learn2\\learn\\zack\\Note\\EmailSender\\EmailSender.csproj": {}
+    "D:\\nikolearn\\learn\\zack\\Note\\EmailSender\\EmailSender.csproj": {}
   },
   "projects": {
-    "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj": {
+    "D:\\nikolearn\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj",
+        "projectUniqueName": "D:\\nikolearn\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj",
         "projectName": "ConfigService",
-        "projectPath": "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj",
+        "projectPath": "D:\\nikolearn\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj",
         "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-        "outputPath": "D:\\learn2\\learn\\zack\\Note\\ConfigService\\obj\\",
+        "outputPath": "D:\\nikolearn\\learn\\zack\\Note\\ConfigService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,69 +39,50 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\learn2\\learn\\zack\\Note\\EmailSender\\EmailSender.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\EmailSender\\EmailSender.csproj",
-        "projectName": "EmailSender",
-        "projectPath": "D:\\learn2\\learn\\zack\\Note\\EmailSender\\EmailSender.csproj",
-        "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-        "outputPath": "D:\\learn2\\learn\\zack\\Note\\EmailSender\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "D:\\learn2\\learn\\zack\\Note\\MailService\\MailService.csproj": {
-                "projectPath": "D:\\learn2\\learn\\zack\\Note\\MailService\\MailService.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
           "dependencies": {
+            "Azure.Search.Documents": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.DataAnnotations": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -124,14 +105,119 @@
         }
       }
     },
-    "D:\\learn2\\learn\\zack\\Note\\LogService\\LogService.csproj": {
+    "D:\\nikolearn\\learn\\zack\\Note\\EmailSender\\EmailSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\LogService\\LogService.csproj",
-        "projectName": "LogService",
-        "projectPath": "D:\\learn2\\learn\\zack\\Note\\LogService\\LogService.csproj",
+        "projectUniqueName": "D:\\nikolearn\\learn\\zack\\Note\\EmailSender\\EmailSender.csproj",
+        "projectName": "EmailSender",
+        "projectPath": "D:\\nikolearn\\learn\\zack\\Note\\EmailSender\\EmailSender.csproj",
         "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-        "outputPath": "D:\\learn2\\learn\\zack\\Note\\LogService\\obj\\",
+        "outputPath": "D:\\nikolearn\\learn\\zack\\Note\\EmailSender\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\nikolearn\\learn\\zack\\Note\\MailService\\MailService.csproj": {
+                "projectPath": "D:\\nikolearn\\learn\\zack\\Note\\MailService\\MailService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Search.Documents": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.DataAnnotations": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\nikolearn\\learn\\zack\\Note\\LogService\\LogService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\nikolearn\\learn\\zack\\Note\\LogService\\LogService.csproj",
+        "projectName": "LogService",
+        "projectPath": "D:\\nikolearn\\learn\\zack\\Note\\LogService\\LogService.csproj",
+        "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
+        "outputPath": "D:\\nikolearn\\learn\\zack\\Note\\LogService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,7 +246,51 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Azure.Search.Documents": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.DataAnnotations": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[7.0.0, )"
             }
@@ -185,14 +315,14 @@
         }
       }
     },
-    "D:\\learn2\\learn\\zack\\Note\\MailService\\MailService.csproj": {
+    "D:\\nikolearn\\learn\\zack\\Note\\MailService\\MailService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\MailService\\MailService.csproj",
+        "projectUniqueName": "D:\\nikolearn\\learn\\zack\\Note\\MailService\\MailService.csproj",
         "projectName": "MailService",
-        "projectPath": "D:\\learn2\\learn\\zack\\Note\\MailService\\MailService.csproj",
+        "projectPath": "D:\\nikolearn\\learn\\zack\\Note\\MailService\\MailService.csproj",
         "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-        "outputPath": "D:\\learn2\\learn\\zack\\Note\\MailService\\obj\\",
+        "outputPath": "D:\\nikolearn\\learn\\zack\\Note\\MailService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -209,11 +339,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj": {
-                "projectPath": "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj"
+              "D:\\nikolearn\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj": {
+                "projectPath": "D:\\nikolearn\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj"
               },
-              "D:\\learn2\\learn\\zack\\Note\\LogService\\LogService.csproj": {
-                "projectPath": "D:\\learn2\\learn\\zack\\Note\\LogService\\LogService.csproj"
+              "D:\\nikolearn\\learn\\zack\\Note\\LogService\\LogService.csproj": {
+                "projectPath": "D:\\nikolearn\\learn\\zack\\Note\\LogService\\LogService.csproj"
               }
             }
           }
@@ -227,6 +357,52 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Search.Documents": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.DataAnnotations": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

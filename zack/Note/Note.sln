@@ -25,21 +25,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linq原理", "Linq原理", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq查询语法", "Linq查询语法\Linq查询语法.csproj", "{5C94CDDD-F95E-41FF-A9C7-E820C531B7A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "依赖注入1", "依赖注入1\依赖注入1.csproj", "{E3EBD78D-9066-402D-AF64-676E90BFC86D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "依赖注入1", "依赖注入1\依赖注入1.csproj", "{E3EBD78D-9066-402D-AF64-676E90BFC86D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "依赖注入的传染性", "依赖注入的传染性\依赖注入的传染性.csproj", "{261972E5-EDCF-4F79-9A0A-FE010175E1F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "依赖注入的传染性", "依赖注入的传染性\依赖注入的传染性.csproj", "{261972E5-EDCF-4F79-9A0A-FE010175E1F7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "依赖注入", "依赖注入", "{85452D7F-3627-40E2-A2EE-1C4B457DDC1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSender", "EmailSender\EmailSender.csproj", "{7570B4F3-DAE4-44B2-B786-7331EE1F2A78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailSender", "EmailSender\EmailSender.csproj", "{7570B4F3-DAE4-44B2-B786-7331EE1F2A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogService", "LogService\LogService.csproj", "{F19CDB70-88D1-48DB-8EFC-9EC5E17C32D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogService", "LogService\LogService.csproj", "{F19CDB70-88D1-48DB-8EFC-9EC5E17C32D4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "依赖注入实例", "依赖注入实例", "{FB55992F-76B0-4F13-9B33-CCFE2D6768A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailService", "MailService\MailService.csproj", "{BDAD8507-BE04-45CE-A72E-1E8F0DE67B03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailService", "MailService\MailService.csproj", "{BDAD8507-BE04-45CE-A72E-1E8F0DE67B03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigService", "ConfigService\ConfigService.csproj", "{B6260EA8-95AC-43F3-A131-4638505C3D21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigService", "ConfigService\ConfigService.csproj", "{B6260EA8-95AC-43F3-A131-4638505C3D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "配置文件", "配置文件\配置文件.csproj", "{9AC244B9-4F09-4E1A-B575-6DA92C681766}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,6 +109,10 @@ Global
 		{B6260EA8-95AC-43F3-A131-4638505C3D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6260EA8-95AC-43F3-A131-4638505C3D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6260EA8-95AC-43F3-A131-4638505C3D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC244B9-4F09-4E1A-B575-6DA92C681766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC244B9-4F09-4E1A-B575-6DA92C681766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC244B9-4F09-4E1A-B575-6DA92C681766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC244B9-4F09-4E1A-B575-6DA92C681766}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

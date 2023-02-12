@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj": {}
+    "D:\\nikolearn\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj": {}
   },
   "projects": {
-    "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj": {
+    "D:\\nikolearn\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj",
+        "projectUniqueName": "D:\\nikolearn\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj",
         "projectName": "ConfigService",
-        "projectPath": "D:\\learn2\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj",
+        "projectPath": "D:\\nikolearn\\learn\\zack\\Note\\ConfigService\\ConfigService.csproj",
         "packagesPath": "C:\\Users\\海军 王\\.nuget\\packages\\",
-        "outputPath": "D:\\learn2\\learn\\zack\\Note\\ConfigService\\obj\\",
+        "outputPath": "D:\\nikolearn\\learn\\zack\\Note\\ConfigService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\海军 王\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,52 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Search.Documents": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options.DataAnnotations": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
