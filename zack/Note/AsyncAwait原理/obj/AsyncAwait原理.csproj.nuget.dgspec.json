@@ -80,6 +80,10 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[7.0.0, )"

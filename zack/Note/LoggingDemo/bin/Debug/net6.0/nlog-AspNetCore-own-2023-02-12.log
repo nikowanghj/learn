@@ -1,0 +1,4 @@
+2023-02-12 20:03:31.1849|0|DEBUG|LoggingDemo.LogTest|开始执行数据库同步 |url: |action: |LoggingDemo.LogTest.Test
+2023-02-12 20:03:31.2238|0|ERROR|LoggingDemo.LogTest|同步数数据库错误！ |url: |action: |LoggingDemo.LogTest.Test
+2023-02-12 20:06:29.2096|0|DEBUG|LoggingDemo.LogTest|开始执行数据库同步 |url: |action: |LoggingDemo.LogTest.Test
+2023-02-12 20:06:29.2438|0|ERROR|LoggingDemo.LogTest|同步数数据库错误！ |url: |action: |LoggingDemo.LogTest.Test

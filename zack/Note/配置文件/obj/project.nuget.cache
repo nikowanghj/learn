@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kEnwIBtCPkbd6nUZsIeZYpkR+TF8zi1Qq30E3Gm8mTgBWL43YHUek92hL65k9zOd6y7FPKL/zRk/y4rfIMdzyA==",
+  "dgSpecHash": "xjKmJWQP6vpahAOIUfYzgBweBPIMeOytGXpGrDQqpmDloGuKrjrkC5ikJkYV0PpwX+Fka8R2E1ypA5FTdlA2/Q==",
   "success": true,
   "projectFilePath": "D:\\nikolearn\\learn\\zack\\Note\\配置文件\\配置文件.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.2\\microsoft.extensions.configuration.binder.7.0.2.nupkg.sha512",
+    "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\7.0.0\\microsoft.extensions.configuration.commandline.7.0.0.nupkg.sha512",
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
     "C:\\Users\\海军 王\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",

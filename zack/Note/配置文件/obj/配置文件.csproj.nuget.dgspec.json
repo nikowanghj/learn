@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[7.0.2, )"
             },
+            "Microsoft.Extensions.Configuration.CommandLine": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Extensions.Configuration.FileExtensions": {
               "target": "Package",
               "version": "[7.0.0, )"
