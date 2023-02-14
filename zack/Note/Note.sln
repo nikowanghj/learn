@@ -41,13 +41,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailService", "MailService\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigService", "ConfigService\ConfigService.csproj", "{B6260EA8-95AC-43F3-A131-4638505C3D21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "配置文件", "配置文件\配置文件.csproj", "{9AC244B9-4F09-4E1A-B575-6DA92C681766}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "配置文件", "配置文件\配置文件.csproj", "{9AC244B9-4F09-4E1A-B575-6DA92C681766}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "配置", "配置", "{6DF268EA-8EE2-457E-A189-95D2F4A6CF22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingDemo", "LoggingDemo\LoggingDemo.csproj", "{F0094665-6233-411F-8FCF-E37DE9D8A581}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingDemo", "LoggingDemo\LoggingDemo.csproj", "{F0094665-6233-411F-8FCF-E37DE9D8A581}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Log", "Log", "{85413A4C-A73D-42BA-9A91-7F39E6A82D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreDemo", "EFCoreDemo\EFCoreDemo.csproj", "{2C73A2E1-5C58-41A8-9233-774947A0B222}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{F0094665-6233-411F-8FCF-E37DE9D8A581}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0094665-6233-411F-8FCF-E37DE9D8A581}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0094665-6233-411F-8FCF-E37DE9D8A581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C73A2E1-5C58-41A8-9233-774947A0B222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C73A2E1-5C58-41A8-9233-774947A0B222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C73A2E1-5C58-41A8-9233-774947A0B222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C73A2E1-5C58-41A8-9233-774947A0B222}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

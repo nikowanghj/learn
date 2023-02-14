@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AsyncAwait原理\AsyncAwait原理.csproj" />
+    <ProjectReference Include="..\ConfigService\ConfigService.csproj" />
+    <ProjectReference Include="..\EmailSender\EmailSender.csproj" />
+    <ProjectReference Include="..\Lambda表达式\Lambda表达式.csproj" />
+    <ProjectReference Include="..\Linq\Linq.csproj" />
+    <ProjectReference Include="..\Linq查询语法\Linq查询语法.csproj" />
+    <ProjectReference Include="..\LoggingDemo\LoggingDemo.csproj" />
+    <ProjectReference Include="..\LogService\LogService.csproj" />
+    <ProjectReference Include="..\MailService\MailService.csproj" />
+    <ProjectReference Include="..\WhenAll\WhenAll.csproj" />
+    <ProjectReference Include="..\依赖注入1\依赖注入1.csproj" />
+    <ProjectReference Include="..\依赖注入的传染性\依赖注入的传染性.csproj" />
+    <ProjectReference Include="..\取消令牌\取消令牌.csproj" />
+    <ProjectReference Include="..\委托\委托.csproj" />
+    <ProjectReference Include="..\异步方法不等于多线程\异步方法不等于多线程.csproj" />
+    <ProjectReference Include="..\线程切换\线程切换.csproj" />
+    <ProjectReference Include="..\配置文件\配置文件.csproj" />
+  </ItemGroup>
+
+</Project>

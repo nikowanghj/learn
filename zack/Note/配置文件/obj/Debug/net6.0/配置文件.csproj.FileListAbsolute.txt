@@ -46,3 +46,4 @@ D:\nikolearn\learn\zack\Note\配置文件\obj\Debug\net6.0\配置文件.pdb
 D:\nikolearn\learn\zack\Note\配置文件\obj\Debug\net6.0\配置文件.genruntimeconfig.cache
 D:\nikolearn\learn\zack\Note\配置文件\obj\Debug\net6.0\ref\配置文件.dll
 D:\nikolearn\learn\zack\Note\配置文件\bin\Debug\net6.0\config.json
+D:\nikolearn\learn\zack\Note\配置文件\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
